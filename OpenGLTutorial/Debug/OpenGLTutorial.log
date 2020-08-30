@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\yenpe\onedrive\desktop\opengl stuff\repos\opengltutorial\opengltutorial\main.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\yenpe\onedrive\desktop\opengl stuff\repos\opengltutorial\opengltutorial\main.cpp(101): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\yenpe\onedrive\desktop\opengl stuff\repos\opengltutorial\opengltutorial\main.cpp(108): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\yenpe\onedrive\desktop\opengl stuff\repos\opengltutorial\opengltutorial\main.cpp(117): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\yenpe\onedrive\desktop\opengl stuff\repos\opengltutorial\opengltutorial\main.cpp(124): warning C4305: '+=': truncation from 'double' to 'float'
+  OpenGLTutorial.vcxproj -> C:\Users\yenpe\OneDrive\Desktop\OpenGL stuff\repos\OpenGLTutorial\Debug\OpenGLTutorial.exe
